@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samharita23
+- 👋 Hi, I’m @samharitan
 - 👀 I’m interested in programming. business and art
 - 🌱 I’m currently learning programming with python
 - 💞️ I’m looking to collaborate on my python project
